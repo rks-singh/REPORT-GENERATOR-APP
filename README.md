@@ -1,11 +1,15 @@
 
-#      INSURANCE REPORT-GENERATOR-APP
-##3 ========================================
+#       INSURANCE REPORT-GENERATOR-APP
+##  ========================================
 
-## TEACH STACK
+## TECH STACK
  1) USER INTERFACE ==> HTML, CSS, BOOTSTRAP, THYMELEAF TEMPLATE ENGINE
  2) BACKEND ==> SPRING BOOT, WEB MVC, DATA JPA.
  3) DATABASE ==>  H2 EMBEDDED DATABASE.
  4) CODE REVIEW ==> SONARQUBE.
  5) PDF GENERATOR ==> OpenPDF API.
  6) EXCEL REPORT GENERATOR ==> Apache POI API.
+
+## APP DASHBOARD
+![image](https://github.com/rks-singh/REPORT-GENERATOR-APP/assets/72653726/c54aead5-fca8-4aae-a6ce-c4e8e3ececa1)
+
